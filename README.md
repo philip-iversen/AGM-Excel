@@ -8,4 +8,4 @@ validation of biological assays. The templates fall into three categories:
 3. Control Charting
 
 For plate uniformity and replicate experiment templates, see the HTS Validation chapter (https://www.ncbi.nlm.nih.gov/books/NBK83783/)
-For control charting, see the Assay Operations chapter ()
+For control charting, see the Assay Operations chapter (https://www.ncbi.nlm.nih.gov/books/NBK91994/)
